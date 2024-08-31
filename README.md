@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 ### whole-slide image segmentation
 
 
@@ -21,18 +18,3 @@ Support multi-head prediction, shortcut connection, dynamic feature selection.
 Support cross-entropy loss, strutural similarity (SSIM) loss, Dice loss and IoU loss.
 
 Tested on datasets from PAIP 2019 https://paip2019.grand-challenge.org/Dataset/ and PAIP 2020 https://paip2020.grand-challenge.org/Dataset/.
-
-## PAIP 2019
-![2019](/results/segmap.jpeg)
-
-## PAIP 2020
-![2020](/results/segmap2020.jpeg)
-=======
-# Scale-adaptive-Net
->>>>>>> 6d98c9a3772d9b96f9b588831ee3bb631eaae7ae
-=======
-# Scale-Adaptive-Viable-Tumor-Burden-Estimation-via-Histopathological-Image-Segmentation
->>>>>>> 97fcb81a7a74702900ac206c36401d7b1d2966ba
-=======
-# Scale-Adaptive-Viable-Tumor-Burden-Estimation-via-Histopathological-Image-Segmentation
->>>>>>> 97fcb81a7a74702900ac206c36401d7b1d2966ba
